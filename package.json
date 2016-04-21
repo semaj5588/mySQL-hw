@@ -1,0 +1,15 @@
+{
+  "name": "sqlhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazoncustomer.js",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
